@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1vn -al ./ ../ /boot
+ls -1vn -al . .. /boot
